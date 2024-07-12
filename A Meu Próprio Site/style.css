@@ -1,0 +1,95 @@
+@charset "UTF-8";
+*{ 
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #e6e6e6;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+   
+    
+   
+}
+
+
+body{
+    background-image:radial-gradient(#308637,#033b16);
+
+
+
+
+    
+}
+
+header {
+    background-color: #1d862e;
+      height: 100%;
+      padding: 30px;
+}
+
+#metalagro{
+   
+  margin-left: 150px;
+}
+
+
+
+ul{
+    cursor: pointer;
+    font-size: 17px;
+    display: flex;
+    margin-left: 70vw;
+    margin-top: -30px ;
+    gap: 50px;
+}
+div{
+    
+    display: flex;
+
+}
+ 
+.plataforma{
+    flex-direction: column ;
+   margin-left: 200px;
+    text-align: left;
+    margin-top: 300px;
+    font-size: 18px;
+    gap: 20px;
+    
+}
+button{
+   margin-top: 20px;
+    cursor: pointer;
+    background-color: #066e26;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+
+
+
+ #plataforma-fixa {
+
+    
+    width: 700px;
+    padding: 70px;
+    border-radius: 10%;
+   margin-left: 100px;
+    
+  
+}
+
+footer{
+    background-color: black;
+    padding: 30px ;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+
+
+
